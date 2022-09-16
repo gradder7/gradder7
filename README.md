@@ -5,6 +5,8 @@
 - 📫 How to reach me Mehra3228@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?gradder7=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?gradder7=ryo-ma&title=Followers
+
 
 <!---
 gradder7/gradder7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
