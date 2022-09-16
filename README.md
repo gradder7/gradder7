@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me Mehra3228@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?gradder7=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?gradder7=ryo-ma&title=Followers
+https://github-profile-trophy.vercel.app/?gradder7=ryo-ma&title=Stars,Followers
+
 
 
 <!---
