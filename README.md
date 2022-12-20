@@ -8,7 +8,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gradder7" alt="gradder7" /></a> </p>
-<img align="right" alt="Code" width="350" class="wdn-stretch rounded-corners" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
