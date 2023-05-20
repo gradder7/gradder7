@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on some projects
 
-- 🌱 I’m currently learning **React,JS,Node.js**
+- 🌱 I’m proficient in **React,JS,Node.js, javascript, Next.js, Html, CSS**
 
 - 💬 Ask me about **java,frontend**
 
